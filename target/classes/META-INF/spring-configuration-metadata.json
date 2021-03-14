@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "mycar",
+      "type": "com.hxc.springboot01.bean.Car",
+      "sourceType": "com.hxc.springboot01.bean.Car"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mycar.name",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.springboot01.bean.Car"
+    },
+    {
+      "name": "mycar.price",
+      "type": "java.lang.String",
+      "sourceType": "com.hxc.springboot01.bean.Car"
+    }
+  ],
+  "hints": []
+}
